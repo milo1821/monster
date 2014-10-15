@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# supergame
+#
+
+projectname: supergame
+vendorid: com.milo.supergame
+mainmodule: com.milo.supergame.supergame
